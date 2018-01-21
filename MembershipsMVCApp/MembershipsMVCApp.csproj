@@ -171,12 +171,21 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Controllers\Images\C#.jpg" />
+    <Content Include="Controllers\Images\laptop.png" />
+    <Content Include="Controllers\Images\pdf.png" />
+    <Content Include="Controllers\Images\unit testing.png" />
+    <Content Include="Controllers\Images\video.png" />
+    <Content Include="Controllers\Images\zip.jpg" />
+    <Content Include="Controllers\Logos\logo - Copy.png" />
+    <Content Include="Controllers\Logos\logo.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Controllers\Documents\test.pdf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
